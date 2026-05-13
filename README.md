@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Job Application Assistant 🤖💼
 
 A production-ready REST API that uses **AI to generate personalized CV summaries, cover letters, and interview tips** for any job application. Built with FastAPI, PostgreSQL, and Google Gemini API.
